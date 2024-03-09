@@ -1,0 +1,5 @@
+go shopping
+stay at home
+master python
+go home
+
